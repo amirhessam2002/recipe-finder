@@ -1,0 +1,16 @@
+# پوشه‌های بی‌استفاده
+node_modules/
+.next/
+out/
+build/
+.vercel/
+
+# فایل‌های لاگ و کش
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+
+# فایل‌های محیطی (محرمانه)
+.env*
